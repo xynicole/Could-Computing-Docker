@@ -37,6 +37,9 @@ main()
 ![alt text](https://github.com/xynicole/Could-Computing-HW2/blob/main/Docker/P2command.png)
 
 ## Extra Credit
+![alt text](https://github.com/xynicole/Could-Computing-HW2/blob/main/Docker/extra%20credit%20output.png)
+![alt text](https://github.com/xynicole/Could-Computing-HW2/blob/main/Docker/extra%20credit%20outputv2.png)
+![alt text](https://github.com/xynicole/Could-Computing-HW2/blob/main/Docker/extra%20credit%20.png)
 
 
 
