@@ -1,4 +1,16 @@
-# Could-Computing-HW2
+# Could-Computing-Docker
+• Write a simple program that displays “Hello World” message.
+• Create Docker image from this container.
+• Push your Docker Image to Docker Hub. Make sure your Docker hub
+repository is public.
+• Deploy your container to Google Cloud Platform Cluster and run the
+container on your GCP cluster.
+• Pull the following docker image: https://hub.docker.com/_/microsoftmmlspark-release
+• Run this docker image on your machine.
+• Deploy your first docker container to Kubernetes cluster and deploy
+the Kubernetes cluster to your GCP cluster. Submit a screenshot of running
+your Kubernetes cluster on GCP. Make sure your screenshot includes the
+cluster name.
 
 ## First Container
 ### URL for Docker image
